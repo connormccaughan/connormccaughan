@@ -1,7 +1,7 @@
-##About Me  
+About Me  
 Hey! I'm currently pursuing my Bachelor's degree at the University of Washington studying Data Visualization and am on track to graduate in March. Upon graduation I am looking to work as a Data Analyst or GIS Analyst.
 
-##Skills & Tools  
+Skills & Tools  
 Applications: Tableau, ArcGIS Suite, Microsoft Suite: Excel, Word, PowerPoint; Google Suite: Calendar, Sheets, Docs, Drive  
 Programming Languages: Basic R and R Markdown, Basic Python, Intermediate Java  
 
