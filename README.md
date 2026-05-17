@@ -1,5 +1,5 @@
 #About Me  
-Hey! I'm currently pursuing my Bachelor's degree at the University of Washington studying Data Visualization and am on track to graduate in March. Upon graduation I am looking to work as a Data Analyst or GIS Analyst.
+Hey! I’m a recent UW grad with a degree in Data Visualization, now actively looking for Data Analyst or Business Analyst roles. I like working with messy datasets and building things that make the findings hard to ignore, whether that’s an interactive dashboard, a clean report, or a map someone actually wants to look at.
 
 #Skills & Tools  
 Applications: Tableau, ArcGIS Suite, Microsoft Suite: Excel, Word, PowerPoint; Google Suite: Calendar, Sheets, Docs, Drive  
